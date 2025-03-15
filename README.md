@@ -1,4 +1,3 @@
-# Amon A. Kipchumba
 ## Product Manager | Data Science | AI
 
 Strategic Product Manager with a strong technical foundation in data science and 3+ years of experience driving product lifecycle management. Passionate about AI innovation and data-driven product development.
