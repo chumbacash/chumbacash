@@ -16,7 +16,6 @@ Empowering AI Innovation with Secure, Scalable Data Solutions. We specialize in 
 - **AI & Data:** Machine Learning, Data Engineering, LLM Applications
 
 ### 📫 Connect With Me
-- LinkedIn: [linkedin.com/in/chumba-24](https://linkedin.com/in/chumba-24)
 - Twitter: [@chumba_24](https://twitter.com/chumba_24)
 - Instagram: [@chumba_24](https://instagram.com/chumba_24)
 
