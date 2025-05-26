@@ -1,4 +1,4 @@
-## Product Manager | Data Science | AI
+## Product Manager | Data Science | AI-Research
 
 Strategic Product Manager with a strong technical foundation in data science and 3+ years of experience driving product lifecycle management. Passionate about AI innovation and data-driven product development.
 
@@ -10,9 +10,9 @@ Strategic Product Manager with a strong technical foundation in data science and
 Empowering AI Innovation with Secure, Scalable Data Solutions. We specialize in providing high-quality data storage solutions to power artificial intelligence innovation and beyond. Our mission is to enable businesses and researchers to harness the full potential of their data with tailored storage services designed for AI training, analytics, and general data management.
 
 ### 💻 Technical Skills
-- **Languages & Frameworks:** Python (Pandas, NumPy, Flask, FastAPI, Scikit-learn, PyTorch), SQL
-- **Cloud:** AWS, Azure
-- **Data Visualization:** Matplotlib, Plotly
+- **Languages & Frameworks:** Python (Pandas, NumPy, Flask, FastAPI, Scikit-learn, PyTorch), SQL, Javascript, Rust, R
+- **Cloud:** AWS, Azure, GCP
+- **Data Visualization:** Matplotlib, Plotly, Dash
 - **AI & Data:** Machine Learning, Data Engineering, LLM Applications
 
 ### 📫 Connect With Me
@@ -21,5 +21,6 @@ Empowering AI Innovation with Secure, Scalable Data Solutions. We specialize in 
 
 ### 📊 Featured Projects
 - **Deriv Trading Data Analytics Dashboard:** Real-time trading metrics visualization
+- **Ellie Voice Model:** Conversational speech model
 - **AI-Powered Price Prediction Agent:** LSTM-based forecasting for crypto, stocks, and forex
 - **Premier League Predictive Model:** Sports analytics for fan engagement
